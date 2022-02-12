@@ -1,7 +1,7 @@
 ![Scoop-PowerShell](img/scoop.png)
 
 ### Learn PowerShell
-* [Install Scoop](INSTALL_SCOOP.md)
-* [Basic Commands](BASIC_COMMANDS.md)
-* [Questions](QUESTIONS.md)
-* [Tasks](TASKS.md)
+* [Install Scoop](md/INSTALL_SCOOP.md)
+* [Basic Commands](md/BASIC_COMMANDS.md)
+* [Questions](md/QUESTIONS.md)
+* [Tasks](md/TASKS.md)
