@@ -1,11 +1,7 @@
 ![Image-Scoop-PowerShell](img/scoop.png)
 
-### Find model at notebook and PC
-* Această comandă de mai jos găsește Manufacture, Prduct, SerailNumber and Verion at yur PC and notebook.v`wmic baseboard get product,manufacturer,version,serialnumber`
-* sau `Win + R` and type `msinfo32.exe`
-
 ### Description
-Powershell este nu doar un simplu terminal dar si o automatizare bună. Dar are și dezavantaj ca face propagandă la tehnologiile lor. Si asta mă erită.
+Powershell este nu doar un simplu terminal, linie de comandă, dar si o automatizare bună. Dar are și dezavantaje. Undul din acestea fiind, alipirea tehnologiile lor `Net` și `C#` care face propagandă. Si asta mă erită.
 
 ### Learn PowerShell
 * [Install Scoop](md/INSTALL_SCOOP.md)
