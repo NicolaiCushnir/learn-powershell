@@ -20,6 +20,26 @@
 * **XCOPY** - Allows you to copy files with extra options
 * **FOR/IN/DO** - This command lets you specify files.
 * **TITLE**- Edit the title of the window.
+* **cls**
+* **color**
+* **set**
+* **goto**
+* **if NOT goto**
+* **goto:init**
+* **goto:read**
+* **exit**
+* **taskkill**
+* **:boot**
+* **Reg**
+* **Del** 
+* **Exit**
+* **:med**
+* **:init**
+* **chcp**
+* **ping**
+* **if exist**
+* **call**
+* **:select**
 
 ```bat
 :: My first program ...
@@ -32,3 +52,5 @@ echo My name is : %name%
 * [Stack Overflow](https://stackoverflow.com/tags/batch-file/info)
 * [FAQ SHELL](http://www.classicshell.net/faq/#general_what)
 * [Guide to Windows Batch Scripting](http://steve-jansen.github.io/guides/windows-batch-scripting/index.html)
+* [An A-Z Index of Windows CMD commands.](https://ss64.com/nt/)
+* [Windows Commands](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
