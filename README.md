@@ -11,7 +11,7 @@ Pentru început PowerShell are 2 forme :
 * [Install Scoop](md/INSTALL_SCOOP.md)
 * [Commands](md/BASIC_COMMANDS.md)
 * [Batch Files](md/BATCH_FILES.md)
-* [PowerShell Scripts](POWERSHELL_SCRIPTS.md)
+* [PowerShell Scripts](md/POWERSHELL_SCRIPTS.md)
 * [Questions](md/QUESTIONS.md)
 * [Tasks](md/TASKS.md)
 
