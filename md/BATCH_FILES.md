@@ -12,6 +12,14 @@
 * **@echo off** Sa nu vezi tot gunoiu ce nu itsi trebuie ... In plus trebuie sa steoe 1 linie din script.
 * **echo** Вывод в консоли или распечатать строку на экране
 * **pause** Делается для того чтобы не закрывалось автоматический окно консоли, терминал.
+* **START** - Run a file with its default application
+* **REM** - Inserts a comment line in the program
+* **MKDIR / RMDIR** - Create and remove directories
+* **DEL** - Deletes a file or files
+* **COPY** - Copy a file or files
+* **XCOPY** - Allows you to copy files with extra options
+* **FOR/IN/DO** - This command lets you specify files.
+* **TITLE**- Edit the title of the window.
 
 ```bat
 @echo off
@@ -20,4 +28,5 @@ echo My name is : %name%
 ```
 
 ### Links:
+* [Stack Overflow](https://stackoverflow.com/tags/batch-file/info)
 * [FAQ SHELL](http://www.classicshell.net/faq/#general_what)

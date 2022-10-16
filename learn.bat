@@ -1,3 +1,3 @@
 @echo off
-set name="Nicolai"
-echo My name is : %name%
+start 
+echo Here is file : main.bat
