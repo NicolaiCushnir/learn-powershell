@@ -22,6 +22,7 @@
 * **TITLE**- Edit the title of the window.
 
 ```bat
+:: My first program ...
 @echo off
 set name="Nicolai"
 echo My name is : %name%
@@ -30,3 +31,4 @@ echo My name is : %name%
 ### Links:
 * [Stack Overflow](https://stackoverflow.com/tags/batch-file/info)
 * [FAQ SHELL](http://www.classicshell.net/faq/#general_what)
+* [Guide to Windows Batch Scripting](http://steve-jansen.github.io/guides/windows-batch-scripting/index.html)
