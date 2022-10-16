@@ -3,12 +3,16 @@
 ### Description
 Powershell este un instrument puternic. Cu ajutorul lui noi putem `optimiza` și `automatizăm` diferite chestii pe care le dorim. Inclusiv configurarea sistemului de operare Windows 10. 
 
+С помощью неё вы можете настраивать удалённые компьютеры, запускать и перезапускать сервисы и производить обслуживание большиства серверных приложений. Как выяснилось, возможности у программы потрясающие.
+
 Pentru început PowerShell are 2 forme : 
 1. [Teminal](md/SHELL.md)
 2. [ISE](md/ISE.md)
 
 ### Learn PowerShell
 * [Install Scoop](md/INSTALL_SCOOP.md)
+* [Alias](#)
+* [Registry](md/HELP_REGISTRY.md)
 * [Commands](md/BASIC_COMMANDS.md)
 * [Batch Files](md/BATCH_FILES.md)
 * [PowerShell Scripts](md/POWERSHELL_SCRIPTS.md)

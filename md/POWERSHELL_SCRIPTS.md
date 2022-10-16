@@ -9,3 +9,5 @@
 
 ### Links:
 * [Tutorialpoint](https://www.tutorialspoint.com/powershell/powershell_scripting.htm)
+* [Пишем скрипты для Windows](https://xakep.ru/2016/12/06/powershell-scripts-examples/)
+* [Habr](https://habr.com/ru/post/113913/)
