@@ -14,10 +14,15 @@ Pentru început PowerShell are 2 forme :
 * [Alias](#)
 * [Registry](md/HELP_REGISTRY.md)
 * [Commands](md/BASIC_COMMANDS.md)
-* [Batch Files](md/BATCH_FILES.md)
 * [PowerShell Scripts](md/POWERSHELL_SCRIPTS.md)
 * [Questions](md/QUESTIONS.md)
 * [Tasks](md/TASKS.md)
+
+### YouTube:
+* [RuFrame](https://www.youtube.com/watch?v=_13576fY7KU&list=PL1aqAoC4A0sXnzbnAvIa36s8P3Ogo8FR_&ab_channel=RuFrame)
+
+### Read Books :
+* Book 1
 
 ### Links
 * [stackoverflow](https://stackoverflow.com/questions/2688547/multiple-foreground-colors-in-powershell-in-one-command#:~:text=It's%20quite%20simple%20to%20use,the%20text%20to%20be%20colored.&text=You%20can%20put%20it%20in,add%20it%20to%20some%20scripts.)
