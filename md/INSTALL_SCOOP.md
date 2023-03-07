@@ -4,7 +4,7 @@
 
 # Copy and write commands in cmd
 * Set-ExecutionPolicy RemoteSigned -scope CurrentUser
-* iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
+* iex (new-object net.webclient).downloadstring('https://get.scoop.sh') **error :** iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
 * set-executionpolicy -s cu Unrestricted
 * scoop help
 * scoop install curl
