@@ -20,7 +20,7 @@
 
 ### Errors which can appear :
 * If you have errorat command : "Set-ExecutionPolicy RemoteSigned -scoop CurrentUser: `Set-ExecutionPolicy RemoteSigned -scope CurrentUser "Set-ExecutionPolicy" не является внутренней или внешней
-командой, исполняемой программой или пакетным файлом.` Тогда напиши в cmd `powershell`.
+командой, исполняемой программой или пакетным файлом.` Тогда напиши в cmd `powershell`. Или для администратора веди: `powershell -Command "Start-Process PowerShell -Verb RunAs"`.
 * If you have so error: **Running the installer as administrator is disabled by default, see https://github.com/ScoopInstaller/Install#for-admin for details.** Than try: **iex "& {$(irm get.scoop.sh)} -RunAsAdmin"**
 * ???
 
